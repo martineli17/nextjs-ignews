@@ -1,0 +1,14 @@
+LIBS PARA TESTES
+1 - jest
+2 - jest-dom
+3 - @testing-library/jest-dom
+4 - @testing-library/dom
+5 - @testing-library/react
+6 - babel-jest
+7 - identity-obj-proxy
+8 - ts-jest
+
+ARQUIVOS
+- setupTests.ts
+- jest-config.ts
+- .babelrc
